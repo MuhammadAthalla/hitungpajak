@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'pajak/pph21',
+        'name' => 'athallaganteng/pph21pajak',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '61e9e410a587bba66e977f1cfdd62db1bfc4dbd5',
+        'reference' => 'b557b49bd02401d9d945d87327a548fedd7a791b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'pajak/pph21' => array(
+        'athallaganteng/pph21pajak' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '61e9e410a587bba66e977f1cfdd62db1bfc4dbd5',
+            'reference' => 'b557b49bd02401d9d945d87327a548fedd7a791b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
